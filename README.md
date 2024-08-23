@@ -4,6 +4,7 @@
 <h4 align="center">"Only things that can happen do happen in the world, after all. So we're going to re-roll the possibilities." <br><br> - Nagara (Sonny Boy)</h4>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p> -->
 
+
 - 🔭 I’m currently working on getting my degree in IT
 - 🌱 I’m currently learning **Data Structures and Algorithms and Object-Oriented Programming**
 - 😄 Pronouns: Heli/Copter
