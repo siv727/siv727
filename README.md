@@ -2,6 +2,7 @@
 <h1 align="center"> Hello! I'm siv! (๑•̀ㅂ•́)و✧ </h1>
 <h3 align="center">siv727 is a human living on Earth (idk what to say)</h3>
 <h4 align="center">"Only things that can happen do happen in the world, after all. So we're going to re-roll the possibilities." <br><br> - Nagara (Sonny Boy)</h4>
+<br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dymnomz&label=Profile%20views&color=32a86d&style=flat-square&label=Profile+Views" alt="dymnomz profile view count" /> </p> -->
 
 
@@ -10,6 +11,7 @@
 - 😄 Pronouns: Heli/Copter
 - ⚡ Fun fact: I like Casino ASMR (gotta have that winner mindset)
 
+<br>
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center" >
@@ -32,6 +34,8 @@
     <img src="https://skillicons.dev/icons?i=c,py,java,vscode" />
   </a>
 </p>
+
+<br>
 
 [![siv's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=siv727\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![siv's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=siv727\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
