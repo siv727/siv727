@@ -1,4 +1,4 @@
-<!-- ![Header](.sivbanner.png) -->
+![Header](./sivbanner.png)
 <h1 align="center"> Hello! I'm siv! (๑•̀ㅂ•́)و✧ </h1>
 <h3 align="center">siv727 is a human living on Earth (idk what to say)</h3>
 <h4 align="center">"Only things that can happen do happen in the world, after all. So we're going to re-roll the possibilities." <br><br> - Nagara (Sonny Boy)</h4>
