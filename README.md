@@ -7,8 +7,8 @@
 
 
 - 🔭 I’m currently working on getting my degree in IT
-- 🌱 I’m currently learning **Data Structures and Algorithms and Object-Oriented Programming**
-- 😄 Pronouns: Heli/Copter
+- 🌱 I’m currently learning **Mobile Development and Object-Oriented Programming**
+- 😄 Pronouns: Honk/Shoo
 - ⚡ Fun fact: I like Casino ASMR (gotta have that winner mindset)
 
 <br>
@@ -31,7 +31,7 @@
 <h3 align="Center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,vscode,kotlin" />
   </a>
 </p>
 
