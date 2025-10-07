@@ -11,8 +11,6 @@
 - 😄 Pronouns: Honk/Shoo
 - ⚡ Fun fact: I like Casino ASMR (gotta have that winner mindset)
 
-<br>
-
 <h3 align="Center">Connect with me:</h3>
 <p align="center" >
 <!--  <a href="https://www.linkedin.com/in/dymierborgonia/">
@@ -38,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siv727&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="400" alt="github-stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=siv727&theme=tokyonight&hide_border=true" width="440" alt="streak-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siv727&layout=donut&theme=tokyonight&hide_border=true" width="400" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siv727&layout=donut&theme=tokyonight&hide_border=true" width="380" alt="top-langs" />
 </p>
 
 
