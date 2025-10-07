@@ -44,9 +44,3 @@
 [![siv's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=siv727\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 [![siv's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=siv727&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![siv's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=siv727&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only) -->
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
