@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on getting my degree in IT
-- 🌱 I’m currently learning **App Development and Django**
+- 🌱 I’m currently learning **System Architecture & System Administration**
 - 😄 Pronouns: Honk/Shoo
 - ⚡ Fun fact: I like Casino ASMR (gotta have that winner mindset)
 
