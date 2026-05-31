@@ -29,15 +29,15 @@
 <h3 align="Center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,vscode,kotlin,django,spring" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,vscode,kotlin,django,spring,git,github,postgres,postman,supabase" />
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siv727&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="400" alt="github-stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=siv727&theme=tokyonight&hide_border=true" width="440" alt="streak-stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siv727&layout=donut&theme=tokyonight&hide_border=true" width="380" alt="top-langs" />
-</p>
+</p> -->
 
 
 <!-- [![siv's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=siv727\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
