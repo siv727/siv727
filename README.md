@@ -33,6 +33,9 @@
   </a>
 </p>
 
+[![siv's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=siv727&show_icons=true&theme=tokyonight)](https://github.com/siv727/github-readme-stats-fast)
+[![siv's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=siv727&show_icons=true&theme=tokyonight)](https://github.com/siv727/github-readme-stats-fast)
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siv727&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="400" alt="github-stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=siv727&theme=tokyonight&hide_border=true" width="440" alt="streak-stats" />
