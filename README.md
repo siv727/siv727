@@ -7,9 +7,9 @@
 
 
 - 🔭 I’m currently working on getting my degree in IT
-- 🌱 I’m currently learning **System Architecture & System Administration**
+- 🌱 I’m currently learning **Test Automation & Agentic Development Workflow**
 - 😄 Pronouns: Honk/Shoo
-- ⚡ Fun fact: I like Casino ASMR (gotta have that winner mindset)
+- ⚡ Fun fact: I like Tarot Card Readings and Reiki
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center" >
@@ -29,7 +29,7 @@
 <h3 align="Center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,vscode,kotlin,django,spring,git,github,postgres,postman,supabase" />
+    <img src="https://skillicons.dev/icons?i=py,java,vscode,django,spring,git,github,postgres,postman,supabase,notion,firebase" />
   </a>
 </p>
 
